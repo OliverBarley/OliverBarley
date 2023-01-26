@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliverBarley
 - 👀 I’m interested in video-game development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
